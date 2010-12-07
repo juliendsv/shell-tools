@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Removing *~"
+rm -rf *~
+ls -la --color=auto
+
+
